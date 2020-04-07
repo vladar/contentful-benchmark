@@ -18,7 +18,7 @@
   "dependencies": {
     "contentful-management": "^5.14.0",
     "dotenv": "^8.2.0",
-    "gatsby": "^2.19.7",
+    "gatsby": "^2.20.13",
     "gatsby-image": "^2.2.40",
     "gatsby-plugin-sharp": "^2.4.5",
     "gatsby-source-contentful": "^2.1.88",
