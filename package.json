@@ -20,7 +20,7 @@
     "dotenv": "^8.2.0",
     "gatsby": "^2.20.13",
     "gatsby-image": "^2.2.40",
-    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-source-contentful": "^2.1.88",
     "gatsby-source-drupal": "^3.3.18",
     "gatsby-source-filesystem": "^2.1.48",
